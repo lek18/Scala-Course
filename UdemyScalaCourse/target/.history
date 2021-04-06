@@ -1,0 +1,16 @@
+addSbtPlugin("com.typesafe.sbteclipse" % "sbteclipse-plugin" % "5.0.1")
+eclipse
+exit;
+quit;
+:q
+q
+quit
+exit
+eclips
+eclipse
+exit
+eclipse
+exit
+eclipse
+exit;
+exit
